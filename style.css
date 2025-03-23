@@ -1,0 +1,17 @@
+.body{
+    margin: 0;
+    display: inline-block;
+}
+body{
+    margin: 0%;
+}
+.r{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
